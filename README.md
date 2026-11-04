@@ -1,6 +1,6 @@
 # Olá, sou a Nicoli! 👋 / Hello, I'm Nicoli! 👋
 
-[PT] Estudante de Análise e Sistemas Development (ADS) com formação em Arquitetura e Urbanismo e Design de Interiores, unindo pensamento sistêmico espacial ao desenvolvimento de software, engenharia de dados e aplicações com Inteligência Artificial.
+[PT] Estudante de Análise e Desenvolvimento de Sistemas (ADS) com formação em Arquitetura e Urbanismo e Design de Interiores, unindo pensamento sistêmico espacial ao desenvolvimento de software, engenharia de dados e aplicações com Inteligência Artificial.
 [EN] Systems Analysis and Development (ADS) student with a background in Architecture, Urbanism, and Interior Design, bridging spatial systemic thinking with software development, data engineering, and Artificial Intelligence applications.
 
 ---
