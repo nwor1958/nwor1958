@@ -37,8 +37,7 @@ Linkedin: [https://www.linkedin.com/in/nicoli-de-carli/]
 - **[auto-sales-ai-assistant](https://github.com/nwor1958/auto-sales-ai-assistant):** AI copilot for automotive sales consulting and deal closing. Developed using Python, Streamlit, and the Gemini API integrated via the OpenAI library.
 - **[data-analytics-customer-churn](https://github.com/nwor1958/data-analytics-customer-churn):** Exploratory Data Analysis (EDA) in Python using Pandas and Plotly to identify churn bottlenecks and simulate customer retention strategies.
 - **[python-web-automation-rpa](https://github.com/nwor1958/python-web-automation-rpa):** Python automation bot (RPA) using PyAutoGUI and Pandas for automated bulk product registration on web systems from structured datasets.
-Hugging Face: [https://huggingface.co/nwor1958]
-Linkedin: [https://www.linkedin.com/in/nicoli-de-carli/]
+  
 ---
 
 ## 📊 Estatísticas do GitHub / GitHub Stats
