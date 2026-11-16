@@ -2,7 +2,8 @@
 
 [PT] Estudante de Análise e Desenvolvimento de Sistemas (ADS) com formação em Arquitetura e Urbanismo e Design de Interiores, unindo pensamento sistêmico espacial ao desenvolvimento de software, engenharia de dados e aplicações com Inteligência Artificial.
 [EN] Systems Analysis and Development (ADS) student with a background in Architecture, Urbanism, and Interior Design, bridging spatial systemic thinking with software development, data engineering, and Artificial Intelligence applications.
-
+Hugging Face: [https://huggingface.co/nwor1958]
+Linkedin: [https://www.linkedin.com/in/nicoli-de-carli/]
 ---
 
 ## 🇧🇷 Português
@@ -36,7 +37,8 @@
 - **[auto-sales-ai-assistant](https://github.com/nwor1958/auto-sales-ai-assistant):** AI copilot for automotive sales consulting and deal closing. Developed using Python, Streamlit, and the Gemini API integrated via the OpenAI library.
 - **[data-analytics-customer-churn](https://github.com/nwor1958/data-analytics-customer-churn):** Exploratory Data Analysis (EDA) in Python using Pandas and Plotly to identify churn bottlenecks and simulate customer retention strategies.
 - **[python-web-automation-rpa](https://github.com/nwor1958/python-web-automation-rpa):** Python automation bot (RPA) using PyAutoGUI and Pandas for automated bulk product registration on web systems from structured datasets.
-
+Hugging Face: [https://huggingface.co/nwor1958]
+Linkedin: [https://www.linkedin.com/in/nicoli-de-carli/]
 ---
 
 ## 📊 Estatísticas do GitHub / GitHub Stats
